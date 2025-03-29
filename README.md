@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**saanvi2005/saanvi2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Saanvi! 👋
 
-Here are some ideas to get you started:
+## 📊 My GitHub Stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saanvi2005&theme=dark)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saanvi2005&theme=dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saanvi2005&theme=dark)
+
+![Repos and Commits](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saanvi2005&theme=dark)
+
+
