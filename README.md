@@ -1,12 +1,13 @@
-# Hi there, I'm Saanvi! 👋
+# Hi there, I'm Saanvi 👋  
 
-## 📊 My GitHub Stats:
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saanvi2005&theme=tokyonight)
+![Saanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saanvi2005&show_icons=true&theme=tokyonight)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saanvi2005&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saanvi2005&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saanvi2005&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=saanvi2005&theme=tokyonight)
+
 
 
 
